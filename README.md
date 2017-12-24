@@ -1,6 +1,6 @@
 # IndiCommunity Design
 
-This repository contains documents describing the design of Indicommunity platform.
+This repository contains documents describing the design of the Indicommunity platform.
 
 ## Overview
 
@@ -16,7 +16,7 @@ Indicommunity is being developed by [CommTechLabs](https://www.commtechlabs.com/
 
 - **Indicommunity is incentivised**: Indicommunity is designed to [incentivise](distribution.md) productive interactions between users of the platform. Each discussion has a potential to develop into a campaign or a movement rewarding the participants with indicoins for their positive contributions.
 
-- **Indicommunity is accountable**: Delegates are elected for taking responsibility for hosting and executing the campaign successfully in the real world and report back on the platform where the community approves the unlocking of funds to the delegate thus ensuring accountability. Campaigns and contributions need to match [specifications](criterion.md) to be rewarded thus ensuring accountability for all. Indicommunity is a self-governing platform where its users (indicoin holders) are the owners.
+- **Indicommunity is accountable**: Delegates are elected for taking responsibility for hosting and executing the campaign successfully in the real world and report back on the platform where the community approves the unlocking of funds to the delegates thus ensuring accountability. Campaigns and contributions need to match [specifications](criterion.md) to be rewarded thus ensuring accountability for all. Indicommunity is a self-governing platform where its users (indicoin holders) are the owners.
 
 
 ## Design Process & Contributing
@@ -35,7 +35,7 @@ The indicommunity design specification is being developed in this repository [de
 We've mapped out features we expect to ship:
 
  1. An initial [Alpha version](alpha.md) release;
- 2. And soon after in [future versions](versions.md].
+ 2. And soon after in [future versions](versions.md).
 
 Join us:
 
