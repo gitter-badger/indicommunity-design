@@ -1,14 +1,14 @@
 # IndiCommunity Design
 
-This repository contains documents describing the design and high-level overview of Indicommunity platform.
+This repository contains documents describing the design of Indicommunity platform.
 
 ## Overview
 
 Indicommunity is a distributed blockchain-based social media platform for communities to collaborate on social issues, raise funds and resources for campaigns, plan and delegate leadership for conducting campaigns, and ensure the proper use of funds and resources towards the purpose they were created for.
 
-Indicommunity is being developed by [CommTechLabs](https://www.commtechlabs.com/) and is powered by indicoins for incentivising participation on the platform. *Expect the contents of this repository to be in flux: everything is still under discussion.*
+Indicommunity is being developed by [CommTechLabs](https://www.commtechlabs.com/) and is powered by [indicoins](http://www.github.com/CommTechLabs/indicoin-crowdsale/) for incentivising participation on the platform. *Expect the contents of this repository to be in flux: everything is still under discussion.*
 
-- **Indicommunity is an interface for social-governance**: Indicommunity [user-interface](interface.md) is designed to bring forth meaningfull discussions on important issues and lead it to productive solutions backed by community support.
+- **Indicommunity is an interface for social-governance**: Indicommunity [user-interface](interface.md) is designed to bring forth meaningful discussions on important issues and lead it to productive solutions backed by community support.
 
 - **Indicommunity is decentralised and uncensorable**: Indicommunity [technical-infrastructure](infrastructure.md) is built as a distributed web-app by making use of the blockchain infrastructure for storing the community data. This makes the platform resilient against any censorship attempts.
 
@@ -21,7 +21,7 @@ Indicommunity is being developed by [CommTechLabs](https://www.commtechlabs.com/
 
 ## Design Process & Contributing
 
-The indicommunity design specification is being developed in this repository [design repository](https://github.com/CommTechLabs/indicommunity-design). Design discussions should continue to be held in this repository, via issues and pull requests. This repository holds the documentation papers for the platform along with the following design documents:
+The indicommunity design specification is being developed in this repository [design repository](https://github.com/CommTechLabs/indicommunity-design). Design discussions should continue to be held in this repository, via issues and pull requests. A description of the breakup of design documents:
 
 | Resource                                   | Description              |
 |--------------------------------------------|--------------------------|
