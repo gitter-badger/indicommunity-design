@@ -18,10 +18,16 @@ Indicommunity is being developed by [CommTechLabs](https://www.commtechlabs.com/
 
 - **Indicommunity is accountable**: Delegates are elected for taking responsibility for hosting and executing the campaign successfully in the real world and report back on the platform where the community approves the unlocking of funds to the delegates thus ensuring accountability. Campaigns and contributions need to match [specifications](criterion.md) to be rewarded thus ensuring accountability for all. Indicommunity is a self-governing platform where its users (indicoin holders) are the owners.
 
+Indicommunity is a blockchain database that supports
+- Fund raising
+- Social interaction to decide the direction of the flow of funds
+- Accountability of social funds
+
+with cryptocurrency rewards for participation. It provides a fair accounting system which is publicly auditable. Subjective contributions by indicoin holders to the platform are accurately and transparently rewarded. The platform protocol creates open and fair economic games built into the interaction protocol of the platform thus making use of subjective inputs from individual humans to reach decisions instead of concentrating power of decision making into a single hand or having a computer make the decisions(it can't, yet).
 
 ## Design Process & Contributing
 
-The indicommunity design specification is being developed in this repository [design repository](https://github.com/CommTechLabs/indicommunity-design). Design discussions should continue to be held in this repository, via issues and pull requests. A description of the breakup of design documents:
+The indicommunity design specification is being developed in this repository [design repository](https://github.com/CommTechLabs/indicommunity-design). Note that repository is focussed on the overall conceptualisation of the network and the platform and does not include the technical implementation of this design which are available in their own respective repositories. Design discussions should continue to be held in this repository, via issues and pull requests. A description of the breakup of design documents:
 
 | Resource                                   | Description              |
 |--------------------------------------------|--------------------------|
